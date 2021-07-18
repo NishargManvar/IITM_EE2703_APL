@@ -1,0 +1,7 @@
+This is the Spice netlist file
+.circuit
+R1 1 2 5 #Comment 1
+V1 1 2 5 #Comment 2
+G1 1 2 4 5 0.5 #Comment 3
+#Comment 3
+.end
